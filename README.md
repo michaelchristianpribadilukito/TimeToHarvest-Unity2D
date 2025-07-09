@@ -37,7 +37,7 @@ Players must grow and harvest crops within a limited time to earn points. The ga
 ### 🔧 How to Run the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TimeToHarvest-Unity2D.git
+   git clone https://github.com/michaelchristianpribadilukito/TimeToHarvest-Unity2D.git
    ```
 2. Open the project in Unity Hub.
 3. Click **Play** to run in Editor.
