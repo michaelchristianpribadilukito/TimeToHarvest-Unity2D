@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc430816be18e074d8d0c42f10d3d45f, type: 3}
+  m_Name: StrawberryCrop
+  m_EditorClassIdentifier: 
+  itemName: Strawberry Seed
+  icon: {fileID: 3706471016571915744, guid: 98377c457e64069448b88739058970fe, type: 3}
+  price: 15
+  yieldItem: {fileID: 3541993508092495009, guid: a036aa3dfcf70104fbf4f2f5109e1056, type: 3}
+  yieldAmount: 2
+  pointsOnHarvest: 5
+  growthSprites:
+  - {fileID: 8369948372191450990, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: -3402868906910896487, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: 7953443401717196921, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: 240733362411572873, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: 1734387795819554390, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: 8578180459406042070, guid: 98377c457e64069448b88739058970fe, type: 3}
+  totalGrowthTimeInSeconds: 15

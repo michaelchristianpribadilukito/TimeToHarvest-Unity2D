@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc430816be18e074d8d0c42f10d3d45f, type: 3}
+  m_Name: SpringCrop
+  m_EditorClassIdentifier: 
+  itemName: Spring Onion Seed
+  icon: {fileID: 4861662748524225573, guid: 98377c457e64069448b88739058970fe, type: 3}
+  price: 5
+  yieldItem: {fileID: 360652064792139220, guid: 17104bde6ced5e0478c4b7a49a100500, type: 3}
+  yieldAmount: 3
+  pointsOnHarvest: 2
+  growthSprites:
+  - {fileID: 5186682900284683890, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: -215653223752782615, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: 3289653190777089658, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: -5066668921399660160, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: 2868446355547618523, guid: 98377c457e64069448b88739058970fe, type: 3}
+  - {fileID: -317592646122885040, guid: 98377c457e64069448b88739058970fe, type: 3}
+  totalGrowthTimeInSeconds: 10
