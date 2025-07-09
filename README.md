@@ -3,10 +3,6 @@
 > A fast-paced 2D farming game where every second counts.  
 > Plant, grow, and harvest as much as you can before time runs out!
 
-![Unity](https://img.shields.io/badge/Engine-Unity-2023.1-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Android-lightgrey)
-
 ---
 
 ## 🎮 About the Game
