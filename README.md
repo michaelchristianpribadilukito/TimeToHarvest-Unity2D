@@ -49,9 +49,11 @@ Players must grow and harvest crops within a limited time to earn points. The ga
 | Action       | Control (PC)     |
 |--------------|------------------|
 | Move         | WASD / Arrow Keys|
-| Interact     | Space / E        |
+| Interact     | Space            |
 | Plant Crop   | Near soil tile   |
 | Harvest Crop | When fully grown |
+| Buy/Sell     | Press B          |
+| Inventory    | Press I/ Tab     |
 
 (*Adjust this table based on your actual controls*)
 
